@@ -1,0 +1,4 @@
+# Instructions
+- Write clean, modern, and modular code.
+- Prefer concise implementations over verbose wrapper logic.
+- Avoid unnecessary comments explaining obvious code; comment only on non-trivial logic.
